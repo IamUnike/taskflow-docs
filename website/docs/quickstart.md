@@ -1,3 +1,8 @@
+---
+slug: /
+sidebar_position: 1
+---
+
 # TaskFlow Quickstart
 
 Use the TaskFlow API to create and manage tasks for your applications. In this Quickstart, you'll authenticate with your API key and create your first task using `curl`.
