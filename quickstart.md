@@ -9,7 +9,7 @@ Completing this Quickstart takes about five minutes.
 Before you begin, make sure you have:
 
 - A [TaskFlow account](../account/create-account.md).
-- `curl` installed on your computer. To verify your installation, run:
+- `curl` installed on your computer. To confirm that `curl` is available, run:
 
   ```bash
   curl --version
