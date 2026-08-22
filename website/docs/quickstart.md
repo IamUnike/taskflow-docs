@@ -13,7 +13,7 @@ Completing this Quickstart takes about five minutes.
 
 Before you begin, make sure you have:
 
-- A [TaskFlow account](../account/create-account.md).
+- A TaskFlow account.
 - `curl` installed on your computer. To confirm that `curl` is available, run:
 
   ```bash
@@ -87,7 +87,6 @@ If TaskFlow returns an authentication error, verify that you replaced `YOUR_API_
 Authorization: Bearer YOUR_API_KEY
 ```
 
-For additional problems, see the [TaskFlow troubleshooting guide](../troubleshooting/index.md).
 
 ## Next steps
 
