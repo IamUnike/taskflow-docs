@@ -20,14 +20,15 @@ const config = {
 
   // Production site URL.
   // We will update this properly during deployment.
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://IamUnike.github.io',
 
   // Serve the site from the root path.
-  baseUrl: '/',
+  baseUrl: '/taskflow-docs/',
 
-  // GitHub repository details.
+  // GitHub repository details.  
   organizationName: 'IamUnike',
   projectName: 'taskflow-docs',
+
 
   onBrokenLinks: 'throw',
 
