@@ -32,6 +32,8 @@ const config = {
 
   onBrokenLinks: 'throw',
 
+  trailingSlash: false,
+
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
