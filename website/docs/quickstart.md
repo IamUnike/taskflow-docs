@@ -7,7 +7,7 @@ sidebar_position: 1
 
 Use the TaskFlow API to create and manage tasks for your applications. In this Quickstart, you'll authenticate with your API key and create your first task using `curl`.
 
-Completing this Quickstart takes about five minutes.
+Completing this Quickstart takes about seven minutes.
 
 ## Prerequisites
 
